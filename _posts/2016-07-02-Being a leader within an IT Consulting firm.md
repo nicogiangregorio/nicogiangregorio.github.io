@@ -20,7 +20,7 @@ It is not an even well-defined role. Some real cases:
 * **team leader**;
 * **project leader**  
 
-  
+
 ###Gain the role of leader  
 This seems simple. But it is not. there are two cases:
 
